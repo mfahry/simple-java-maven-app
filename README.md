@@ -16,4 +16,4 @@ the "Deliver" stage of your Pipeline.
 
 "Test trigger from github"
 
-"Test ke dua"
+"Test ke tiga"
